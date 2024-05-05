@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536267730895",
+    "project_id": "agordsproj-7f95d",
+    "storage_bucket": "agordsproj-7f95d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536267730895:android:89095458ba58ca0a806cba",
+        "android_client_info": {
+          "package_name": "com.mobilecomputing.agords"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBv8FMTToYdGvK5uFAobsZc4D9S4Pc6so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
